@@ -8,7 +8,7 @@ desenvolvida em Power BI (DAX).
 - Ingestão de CSV via terminal (psql \copy)
 - Modelagem relacional (tabela fato e dimensão)
 - Criação de views financeiras em SQL
-- Consumo das views no Power BI
+
 
 ### Métricas principais
 - Receita Bruta
