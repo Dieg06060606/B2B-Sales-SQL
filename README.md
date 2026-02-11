@@ -1,4 +1,4 @@
-## Sales Analytics – SQL + Power BI
+## Sales Analytics – SQL 
 
 Projeto de Business Intelligence com foco em métricas financeiras,
 replicando em SQL (PostgreSQL) a lógica analítica originalmente
